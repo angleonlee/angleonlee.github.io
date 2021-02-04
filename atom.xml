@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://angleonlee.github.io</id>
     <title>译波三折</title>
-    <updated>2021-02-04T17:50:30.166Z</updated>
+    <updated>2021-02-04T17:53:30.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://angleonlee.github.io"/>
     <link rel="self" href="https://angleonlee.github.io/atom.xml"/>
@@ -10,17 +10,4 @@
     <logo>https://angleonlee.github.io/images/avatar.png</logo>
     <icon>https://angleonlee.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 译波三折</rights>
-    <entry>
-        <title type="html"><![CDATA[关于我]]></title>
-        <id>https://angleonlee.github.io/post/about-me/</id>
-        <link href="https://angleonlee.github.io/post/about-me/">
-        </link>
-        <updated>2021-01-28T14:03:36.000Z</updated>
-        <content type="html"><![CDATA[<p>翻译｜本地化｜语言学习｜杂记</p>
-<p>📍瑞士·日内瓦｜2020.10 - 至今：世界知识产权组织 Terminology Fellowship<br>
-📍中国·江苏南京｜2018.12 - 2019.5：江苏省舜禹信息技术有限公司 翻译技术部实习生</p>
-<p>📍英国·利兹｜2019.9 - 2020.9：利兹大学 MA Applied Translation Studies<br>
-📍中国·江苏南京｜2015.9 - 2019.6：南京信息工程大学 文学院 英语系</p>
-]]></content>
-    </entry>
 </feed>
